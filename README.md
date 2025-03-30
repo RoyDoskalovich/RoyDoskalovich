@@ -14,6 +14,7 @@ I've also deeply enjoyed exploring theoretical computer science, including algor
 - **[Chat-App](https://github.com/RoyDoskalovich/Chat-App)**
 - **[Computational-Biology](https://github.com/RoyDoskalovich/Computational-Biology)**
 - **[Automated-Reasoning](https://github.com/RoyDoskalovich/Automated-Reasoning)**
+- **[Tabular-Data-Generator](https://github.com/RoyDoskalovich/Tabular-Data-Generator)**
   
   **Be sure that more things are coming...**
 
