@@ -2,7 +2,7 @@
 # Hey, I'm Roy
 
 ### A little bit about me
-- I'm a software developer about to finish my Bachelor's degree in Computer Science at BIU (graduating Spring 2025). I'm passionate about solving problems and creating new things.
+- I'm a software developer with a Bachelor's degree in Computer Science from BIU. I'm passionate about solving problems and creating new things.
 Throughout my studies and free time, I've gained experience in various fields, from ***Data Science*** to ***parallel programming***, ***full-stack*** applications to ***low-level programming***.
 I've also deeply enjoyed exploring theoretical computer science, including algorithms, computability theory, and computational complexity. I'm always looking forward to facing new challenges and continuing to prove to myself that anything is possible.
 - Besides coding, I really enjoy music, poetry and writing, working out at the gym, and scuba diving.   
