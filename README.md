@@ -16,6 +16,7 @@ I've also deeply enjoyed exploring theoretical computer science, including algor
 - **[Automated-Reasoning](https://github.com/RoyDoskalovich/Automated-Reasoning)**
 - **[Tabular-Data-Generator](https://github.com/RoyDoskalovich/Tabular-Data-Generator)**
 - **[ATM-API](https://github.com/RoyDoskalovich/ATM)**
+- **[Song-Recommender](https://github.com/RoyDoskalovich/Song-Recommender)**
   
   **Be sure that more things are coming...**
 
